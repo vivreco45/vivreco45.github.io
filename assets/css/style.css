@@ -148,7 +148,7 @@ header.top-header {
   width: 100%;
 }
 .shows {
- background: #f94d4d;
+ background: #8db740;
  transition: all 1.6s;
 }
 .shows .navbar-default {
@@ -174,7 +174,7 @@ h1.logo {
 }
 h1 img{
   vertical-align: top;
-  height: 22px;
+  height: 50px;
 }
 #header{  
   position: relative;     
@@ -356,7 +356,7 @@ h1 img{
 #parallax {
   /* background-image: url(../images/blue_mac2.jpg); */
   color: white;
-  background: #f94d4d;
+  background: #8db740;
 }
 #contact {
   background-image: url(../images/newsletter-bg.png);
@@ -604,7 +604,7 @@ ol.carousel-indicators {
 ///////////////////////////////////////////////////////////////////////*/
 
 
-#footer{ background: #2B3E51; color: white; border-top: 1px solid rgba(255, 255, 255, 0.24);}
+#footer{ background: #3b3d57; color: white; border-top: 1px solid rgba(255, 255, 255, 0.24);}
 
 h2.footer-block {
     color: white;
@@ -617,7 +617,7 @@ h2.footer-block {
 .form-group .btn.btn-o-white {
     width: 100%;
     padding: 9px 0;
-    background: #f94d4d;
+    background: #8db740;
     border: none;
 }
 ::-webkit-input-placeholder {
@@ -643,7 +643,7 @@ h2.footer-block {
 }
 .blog-post ul li .fa {
   border-radius: 33px 33px;
-  background: #f94d4d;
+  background: #8db740;
   width: 28px;
   /* height: 20px; */
   text-align: center;
@@ -654,14 +654,14 @@ h2.footer-block {
   margin-left: -40px;
 }
 .blog-post .fa{
-  background: #f94d4d;
+  background: #8db740;
   width: 28px;
   text-align: center;
   padding: 7px 7px;
   cursor: pointer;
 }
 .blog-post .fa:hover{
-  color: #f94d4d;
+  color: #8db740;
   background:white;
   transition: all .6s;
 }
